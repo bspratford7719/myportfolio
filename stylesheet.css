@@ -21,6 +21,28 @@
     text-align: left;
     border: 5px solid;
     background-color: #7569ad;
+    overflow: auto;
+}
+
+.intro div img {
+    float: left;
+}
+
+.intro img {
+    max-height: 250px;
+    position: left;
+}
+
+.intro p {
+    position: right;
+}
+
+.intro div ul {
+    list-style-type: none;
+    text-align: center;
+}
+.intro div ul li {
+    display: inline-block;
 }
 
 body {
@@ -47,6 +69,7 @@ body {
     padding: 5px;
     margin: 5px;
     box-shadow: 10px 10px 5px #646262;
+    cursor: pointer;
 }
 
 .project2 {
@@ -56,6 +79,7 @@ body {
     padding: 5px;
     margin: 5px;
     box-shadow: 10px 10px 5px #646262;
+    cursor: pointer;
 }
 
 .project3 {
@@ -65,6 +89,7 @@ body {
     padding: 5px;
     margin: 5px;
     box-shadow: 10px 10px 5px #646262;
+    cursor: pointer;
 }
 
 .project4 {
@@ -74,6 +99,7 @@ body {
     padding: 5px;
     margin: 5px;
     box-shadow: 10px 10px 5px #646262;
+    cursor: pointer;
 }
 
 .contact-info div {
