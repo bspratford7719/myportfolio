@@ -1,21 +1,47 @@
 * {
-    margin: 10px;
-    padding: 2px;
+    padding: 3px;
     box-sizing: border-box;
-    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-}
-
-.intro {
     width: flex;
-    padding: 5px;
 }
 
-.intro h1 {
+.intro-name {
+    text-align: center;
+}
+
+.intro-name h1 {
     font-size: 40px;
 }
 
-.intro div {
+.intro-name h2 {
+    text-align: left;
+}
+
+.intro {
+    text-align: left;
     border: 5px solid;
-    background-color: #816ddd;
+    background-color: #7569ad;
+}
+
+body {
+    background-color: rgb(178, 178, 226);
+}
+
+.mywork {
+    padding: 5px;
+}
+.mywork div {
+    border: 5px solid;
+    background-color: #7569ad;
+}
+
+.contact-info div {
+    border: 5px solid;
+    background-color: #7569ad;
+
+}
+
+.contact-info div {
+    text-align: center;
+    float: center;
 }
