@@ -1,5 +1,21 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 10px;
+    padding: 2px;
     box-sizing: border-box;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.intro {
+    width: flex;
+    padding: 5px;
+}
+
+.intro h1 {
+    font-size: 40px;
+}
+
+.intro div {
+    border: 5px solid;
+    background-color: #816ddd;
 }
