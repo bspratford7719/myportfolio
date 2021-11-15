@@ -29,10 +29,51 @@ body {
 
 .mywork {
     padding: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
+
 .mywork div {
     border: 5px solid;
     background-color: #7569ad;
+}
+
+.project1 {
+    text-align: center;
+    display: left;
+    width: 300px;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 10px 10px 5px #646262;
+}
+
+.project2 {
+    text-align: center;
+    display: right;
+    width: 300px;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 10px 10px 5px #646262;
+}
+
+.project3 {
+    text-align: center;
+    display: left;
+    width: 300px;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 10px 10px 5px #646262;
+}
+
+.project4 {
+    text-align: center;
+    display: right;
+    width: 300px;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 10px 10px 5px #646262;
 }
 
 .contact-info div {
