@@ -6,11 +6,12 @@ Welcome to My Portfolio
 
 This is where I have provided 4 projects that I have completed on my journey to the coding world.
 
--updated 12/19 to reflect my Project 1: Stockwyse
+-updated 12/19 to reflect my Project 1: Stockwysed
+-updated 2/20/22 to reflect my Project 2: Lost Pet App
 
 Feel free to reach out if you have any questions about my profile and experience.
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/92769029/146687840-c9851e36-94e6-4f65-930e-5b0b4e059bf7.png)
+![image](https://user-images.githubusercontent.com/92769029/154872127-812e457c-3eb9-46a3-9084-fc7b09b91481.png)
 
