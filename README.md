@@ -6,8 +6,8 @@ Welcome to My Portfolio
 
 This is where I have provided 4 projects that I have completed on my journey to the coding world.
 
--updated 12/19 to reflect my Project 1: Stockwysed
--updated 2/20/22 to reflect my Project 2: Lost Pet App
+    -updated 12/19/21 to reflect my Project 1: Stockwyse
+    -updated 2/20/22 to reflect my Project 2: Lost Pet App
 
 Feel free to reach out if you have any questions about my profile and experience.
 
