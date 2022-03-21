@@ -1,10 +1,11 @@
-![badmath](https://img.shields.io/badge/-HTML-orange) ![badmath](https://img.shields.io/badge/-CSS-blue)
+![badmath](https://img.shields.io/badge/-HTML-orange)
+![badmath](https://img.shields.io/badge/-CSS-blue)
 
 # My Portfolio
 
-Welcome to My Portfolio
+Welcome to My Github Portfolio!
 
-This is where I have provided 4 projects that I have completed on my journey to the coding world.
+This is where I have provided 2 projects (so far) that I have completed, on my journey to the coding world.
 
     -updated 12/19/21 to reflect my Project 1: Stockwyse
     -updated 2/20/22 to reflect my Project 2: Lost Pet App
